@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with exoImplantEditor CAD [Engine build 7996] [<64-Bit>]  -->
+<ImplantLibraryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RegistrationClickCenter>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </RegistrationClickCenter>
+  <AxisAsymmetric>
+    <x>0</x>
+    <y>0</y>
+    <z>-1</z>
+  </AxisAsymmetric>
+  <ImplantFilename>F043.stl</ImplantFilename>
+  <DisplayInformation>MF_213_ST_TL_RN</DisplayInformation>
+  <IsWithInterface>false</IsWithInterface>
+  <IsWithRotationLock>true</IsWithRotationLock>
+  <Keyword>MF_213_ST_TL_RN</Keyword>
+  <SupportOrientation>-1</SupportOrientation>
+  <AxisScrewChannelMaxUserAngle IsDesignConstraint="true">30</AxisScrewChannelMaxUserAngle>
+  <AxisScrewChannelMinUserAngle IsDesignConstraint="true">0</AxisScrewChannelMinUserAngle>
+  <WarrantyInformation>DISCLAIMER OF WARRANTY
+
+
+THIS DATA IS PROVIDED "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE, ACCURACY, OR MERCHANTABILITY. THE SELLER'S SALESPERSONS MAY HAVE MADE STATEMENTS ABOUT THIS DATA. ANY SUCH STATEMENTS DO NOT CONSTITUTE WARRANTIES AND SHALL NOT BE RELIED ON BY USER IN DECIDING WHETHER TO USE THIS DATA.
+
+THIS DATA IS PROVIDED WITHOUT ANY EXPRESSED OR IMPLIED WARRANTIES WHATSOEVER. BECAUSE OF THE DIVERSITY OF CONDITIONS AND HARDWARE UNDER WHICH THIS DATA MAY BE USED, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED. THE USER IS ADVISED TO TEST THE DATA THOROUGHLY BEFORE RELYING ON IT. THE USER MUST ASSUME THE ENTIRE RISK OF USING THIS DATA AND ACCEPTS IT "WITH ALL ITS FAULTS". THE USER MUST ASSUME THE ENTIRE RISK OF USING THE PROGRAM.
+</WarrantyInformation>
+  <AxisOcclusal>
+    <x>0</x>
+    <y>1</y>
+    <z>0</z>
+  </AxisOcclusal>
+  <TypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>-0.054265975952148438</x>
+        <y>9.09124755859375</y>
+        <z>2.0499992370605469</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>ST_TL_48_SBLP.stl</MarkerFilename>
+      <SupportFilename>OS_SS_R_M5510TOP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>ST_TL_48_M5510TOP.stl</InterfaceFilename>
+      <ScrewFilename>OS_SS_R_MS10T.stl</ScrewFilename>
+      <DisplayInformation>M5510TO_L</DisplayInformation>
+      <Keyword>M5510TO_L</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>-0.054265975952148438</x>
+        <y>9.09124755859375</y>
+        <z>2.0499992370605469</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>ST_TL_48_SBLP.stl</MarkerFilename>
+      <SupportFilename>OS_SS_R_M5515TOP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>ST_TL_48_M5515TOP.stl</InterfaceFilename>
+      <ScrewFilename>OS_SS_R_MS15T.stl</ScrewFilename>
+      <DisplayInformation>M5515TO_L</DisplayInformation>
+      <Keyword>M5515TO_L</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>0.46099472045898438</x>
+        <y>9.3556556701660156</y>
+        <z>2.0500030517578125</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>ST_TL_48_SBLP.stl</MarkerFilename>
+      <SupportFilename>OS_SS_R_M5525TOP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>ST_TL_48_M5525TOP.stl</InterfaceFilename>
+      <ScrewFilename>OS_SS_R_MS25T.stl</ScrewFilename>
+      <DisplayInformation>M5525TO_L</DisplayInformation>
+      <Keyword>M5525TO_L</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>0.45400428771972656</x>
+        <y>4.8985214233398438</y>
+        <z>2.0499992370605469</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>ST_TL_48_SBSP.stl</MarkerFilename>
+      <SupportFilename>OS_SS_R_M5510TOP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>ST_TL_48_M5510TOP.stl</InterfaceFilename>
+      <ScrewFilename>OS_SS_R_MS10T.stl</ScrewFilename>
+      <DisplayInformation>M5510TO_S</DisplayInformation>
+      <Keyword>M5510TO_S</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>0.16737556457519531</x>
+        <y>5.1387176513671875</y>
+        <z>2.0500030517578125</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>ST_TL_48_SBSP.stl</MarkerFilename>
+      <SupportFilename>OS_SS_R_M5515TOP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>ST_TL_48_M5515TOP.stl</InterfaceFilename>
+      <ScrewFilename>OS_SS_R_MS15T.stl</ScrewFilename>
+      <DisplayInformation>M5515TO_S</DisplayInformation>
+      <Keyword>M5515TO_S</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>0.45400428771972656</x>
+        <y>4.8985214233398438</y>
+        <z>2.0499992370605469</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>ST_TL_48_SBSP.stl</MarkerFilename>
+      <SupportFilename>OS_SS_R_M5525TOP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>ST_TL_48_M5525TOP.stl</InterfaceFilename>
+      <ScrewFilename>OS_SS_R_MS25T.stl</ScrewFilename>
+      <DisplayInformation>M5525TO_S</DisplayInformation>
+      <Keyword>M5525TO_S</Keyword>
+    </ImplantTypeConfig>
+  </TypeConfig>
+  <InfoSignature>Not yet signed</InfoSignature>
+  <FileSignatures>
+    <!--  NOTE! Signature is provided ONLY for specific mesh properties -->
+    <!--  NOT for accuracy or suitability to a particular task.         -->
+    <!--  A valid signature from the software vendor does NOT imply any -->
+    <!--  warranties or statements regarding the data's correctness!    -->
+    <FileSignature>
+      <Filename />
+      <Signature />
+    </FileSignature>
+  </FileSignatures>
+</ImplantLibraryEntry>
