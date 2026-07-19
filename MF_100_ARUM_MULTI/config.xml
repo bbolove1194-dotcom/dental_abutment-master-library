@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with exoImplantEditor CAD [Engine build 7996] [<64-Bit>]  -->
+<ImplantLibraryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RegistrationClickCenter>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </RegistrationClickCenter>
+  <AxisAsymmetric>
+    <x>0</x>
+    <y>0</y>
+    <z>-1</z>
+  </AxisAsymmetric>
+  <ImplantFilename>MLA48.stl</ImplantFilename>
+  <DisplayInformation>MF_100_ARUM_MULTI</DisplayInformation>
+  <IsWithInterface>false</IsWithInterface>
+  <IsWithRotationLock>true</IsWithRotationLock>
+  <Keyword>MF_100_ARUM_MULTI</Keyword>
+  <SupportOrientation>-1</SupportOrientation>
+  <AxisScrewChannelMaxUserAngle IsDesignConstraint="true">30</AxisScrewChannelMaxUserAngle>
+  <AxisScrewChannelMinUserAngle IsDesignConstraint="true">0</AxisScrewChannelMinUserAngle>
+  <WarrantyInformation>DISCLAIMER OF WARRANTY
+
+
+THIS DATA IS PROVIDED "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE, ACCURACY, OR MERCHANTABILITY. THE SELLER'S SALESPERSONS MAY HAVE MADE STATEMENTS ABOUT THIS DATA. ANY SUCH STATEMENTS DO NOT CONSTITUTE WARRANTIES AND SHALL NOT BE RELIED ON BY USER IN DECIDING WHETHER TO USE THIS DATA.
+
+THIS DATA IS PROVIDED WITHOUT ANY EXPRESSED OR IMPLIED WARRANTIES WHATSOEVER. BECAUSE OF THE DIVERSITY OF CONDITIONS AND HARDWARE UNDER WHICH THIS DATA MAY BE USED, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED. THE USER IS ADVISED TO TEST THE DATA THOROUGHLY BEFORE RELYING ON IT. THE USER MUST ASSUME THE ENTIRE RISK OF USING THIS DATA AND ACCEPTS IT "WITH ALL ITS FAULTS". THE USER MUST ASSUME THE ENTIRE RISK OF USING THE PROGRAM.
+</WarrantyInformation>
+  <AxisOcclusal>
+    <x>0</x>
+    <y>1</y>
+    <z>0</z>
+  </AxisOcclusal>
+  <TypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>0.033177733421325684</x>
+        <y>5.7346611022949219</y>
+        <z>2.1000022888183594</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>MMSBS48P.stl</MarkerFilename>
+      <SupportFilename>MMF5515TSP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>MMF5515TSP.stl</InterfaceFilename>
+      <ScrewFilename>MMFS15T.stl</ScrewFilename>
+      <DisplayInformation>MMF5515TS_S</DisplayInformation>
+      <Keyword>MMF5515TS_S</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>-0.011988043785095215</x>
+        <y>5.6732597351074219</y>
+        <z>2.0999984741210938</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>MMSBS48P.stl</MarkerFilename>
+      <SupportFilename>MMF5525TSP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>MMF5525TSP.stl</InterfaceFilename>
+      <ScrewFilename>MMFS25T.stl</ScrewFilename>
+      <DisplayInformation>MMF5525TS_S</DisplayInformation>
+      <Keyword>MMF5525TS_S</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>-0.01374971866607666</x>
+        <y>9.913360595703125</y>
+        <z>2.1000022888183594</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>MMSBL48P.stl</MarkerFilename>
+      <SupportFilename>MMF5515TSP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>MMF5515TSP.stl</InterfaceFilename>
+      <ScrewFilename>MMFS15T.stl</ScrewFilename>
+      <DisplayInformation>MMF5515TS_L</DisplayInformation>
+      <Keyword>MMF5515TS_L</Keyword>
+    </ImplantTypeConfig>
+    <ImplantTypeConfig>
+      <RegistrationClickCenter>
+        <x>-0.02081984281539917</x>
+        <y>9.8428459167480469</y>
+        <z>2.0999984741210938</z>
+      </RegistrationClickCenter>
+      <AxisAsymmetric>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </AxisAsymmetric>
+      <MarkerFilename>MMSBL48P.stl</MarkerFilename>
+      <SupportFilename>MMF5525TSP_BASE_EXO.stl</SupportFilename>
+      <InterfaceFilename>MMF5525TSP.stl</InterfaceFilename>
+      <ScrewFilename>MMFS25T.stl</ScrewFilename>
+      <DisplayInformation>MMF5525TS_L</DisplayInformation>
+      <Keyword>MMF5525TS_L</Keyword>
+    </ImplantTypeConfig>
+  </TypeConfig>
+  <InfoSignature>Not yet signed</InfoSignature>
+  <FileSignatures>
+    <!--  NOTE! Signature is provided ONLY for specific mesh properties -->
+    <!--  NOT for accuracy or suitability to a particular task.         -->
+    <!--  A valid signature from the software vendor does NOT imply any -->
+    <!--  warranties or statements regarding the data's correctness!    -->
+    <FileSignature>
+      <Filename />
+      <Signature />
+    </FileSignature>
+  </FileSignatures>
+</ImplantLibraryEntry>
